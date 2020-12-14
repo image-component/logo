@@ -1,3 +1,3 @@
-# icon
+# logo
 
-![](./total.PNG)
+![](./all.png)
